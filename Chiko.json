@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e94c1ed060f55c15",
+        "key": "CHIKO-1234",
+        "expirydate": "1-12-2025",
+        "Allowoffline": false
     }
 ]
